@@ -1,7 +1,7 @@
 package main
 
 import (
-	"dns-cli/cmd"
+	"github.com/pedroren-001/dns-cli/cmd"
 	"os"
 )
 

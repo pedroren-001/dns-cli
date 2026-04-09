@@ -1,4 +1,4 @@
-module dns-cli
+module github.com/pedroren-001/dns-cli
 
 go 1.25.5
 
